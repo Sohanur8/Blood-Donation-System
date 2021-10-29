@@ -1,0 +1,96 @@
+.body{
+    
+    background: url(images/blue-space-wallpaper-4.jpg);
+    background-size: cover;
+}
+}
+
+.maincontent h3{
+    border: 0;
+    margin: 0;
+    min-height: 30px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.19);
+    padding: 5px;
+    
+}
+
+.maincontent .ttlLeft h4{
+   font-size: 25px;
+    background-color: #1ac6ff;
+    text-align: center;
+    
+}
+.left-part{
+    margin-top: 5px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-bottom: 5px;
+   
+}
+.right-part{
+    margin-top: 10px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+    margin-bottom: 5px;
+   
+    
+}
+.left-part form .inp{
+    width: 250px;
+    margin-top: 1px;
+    padding: 2px;
+    border: 1px solid #00ccff;
+    
+    
+    
+}
+.left-part form .inp:focus {
+    box-shadow: 0 0 5px #ff0066;
+    border: 1px solid #ff0066;
+}
+
+.left-part form .btn-custom {
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 0;
+    font-size: 13pt;
+    background: #FE6347;
+    color: #fff;
+}
+
+.left-part form .btn-custom:hover {
+    background: #1ac6ff;
+}
+.maincontent .pedform {
+    
+    margin: 10% auto;
+    width: 400px;
+    min-height: 100px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #999;
+    padding: 20px;
+    text-align: center;
+    background: #fff;
+    
+}
+ .inp{
+    width: 250px;
+    margin-top: 1px;
+    padding: 2px;
+    border: 1px solid #00ccff;
+    
+    
+}
+ .btn-custom {
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 0;
+    font-size: 13pt;
+    background:  #1ac6ff;
+    color: #fff;
+}
+.btn-custom:hover {
+    background: #FE6347 ;
+}
